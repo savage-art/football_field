@@ -1,0 +1,420 @@
+.feldbody{
+        position: relative;
+        border: 1px solid green;
+        background-color:rgb(12, 88, 12);
+        left: 34%;
+        height: 600px;
+        top: 20px;
+        width: 500px;
+        border-radius: 0%;
+    
+}
+.theplacement{
+    position: relative;
+    border: 25px solid rgb(12, 88, 12);
+    left: 34%;
+    height: 563px;
+    bottom: 1127px;
+    width: 453px;
+    border-radius: 0%;
+    z-index: 5;
+}
+
+.innerfeld{
+    position: relative;
+    border: 1px solid #fff;
+    left: 5%;
+    height: 560px;
+    top: 20px;
+    width: 450px;
+    border-radius: 0%;
+}
+.post{
+    position: relative;
+    border: 2px solid #fff;
+    left: 46.70%;
+    height: 80px;
+    bottom: 82px;
+    width: 180px;
+    background-color: rgb(12, 88, 12);
+    border-radius: 0%;
+    z-index: 10;
+}
+.post2{
+    position: relative;
+    border: 2px solid #fff;
+    left: 46.95%;
+    height: 80px;
+    bottom: 730px;
+    width: 180px;
+    background-color: rgb(12, 88, 12);
+    border-radius: 0%;
+    z-index: 9;
+    
+}
+
+.post3{
+    position: relative;
+    border: 2px solid #fff;
+    left: 47%;
+    height: 30px;
+    bottom: 1px;
+    width: 40px;
+    border-radius: 0%;
+    z-index: 8;
+}
+.post4{
+    position: relative;
+    border: 2px solid #fff;
+    left: 44%;
+    height: 30px;
+    bottom: 49px;
+    width: 70px;
+    border-radius: 0%;
+    z-index: 11;
+}
+.midpitch{
+    position: relative;
+    border: 2px solid #fff;
+    left: 5%;
+    bottom: 340px;
+    width: 450px;
+    border-radius: 0%;
+}
+.pitchcircle{
+    position: relative;
+    border: 2px solid#fff;
+    left: 42%;
+    height: 80px;
+    bottom: 385px;
+    width: 80px;
+    border-radius: 100%;
+}
+.postcircle{
+    position:relative;
+    border: 2px solid#fff;
+    left: 50%;
+    height: 80px;
+    bottom: 200px;
+    width: 80px;
+    border-radius: 100%; 
+}
+.post5{
+    position: relative;
+    border: 2px solid #fff;
+    left: 51%;
+    height: 30px;
+    bottom: 814px;
+    width: 70px;
+    border-radius: 0%;
+    z-index: 11;
+}
+.posttop{
+    position: relative;
+    border: 2px solid rgb(255, 255, 255);
+    left: 52%;
+    height: 30px;
+    bottom: 864px;
+    width: 40px;
+    border-radius: 0%;
+    z-index: 7;
+}
+.toppostcircle{
+    position:relative;
+    border: 2px solid #fff;
+    left: 51%;
+    height: 80px;
+    bottom: 850px;
+    width: 80px;
+    border-radius: 100%; 
+    text-align: center;
+}
+
+.players{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: #fff;
+    left: 47%;
+    height: 30px;
+    width: 30px;
+    bottom: 870px;
+    border-radius: 100%; 
+    text-align: center;
+}
+.player2{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: #fff;
+    left: 37%;
+    height: 30px;
+    width: 30px;
+    bottom: 900px;
+    border-radius: 100%; 
+    text-align: center;
+}
+.player3{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: #fff;
+    left: 58%;
+    height: 30px;
+    width: 30px;
+    bottom: 940px;
+    text-align: center;
+    border-radius: 100%; 
+}
+.player4{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: #fff;
+    left: 67%;
+    height: 30px;
+    width: 30px;
+    bottom: 975px;
+    border-radius: 100%;
+    text-align: center;
+}
+.thecircle1{
+    position:relative;
+    border: 2px solid rgb(255, 255, 255);
+    right: 3%;
+    bottom: 2%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+}
+.thecircle2{
+    position:relative;
+    border: 2px solid rgb(255, 255, 255);
+    right: 4%;
+    top: 90%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+}
+.thecircle3{
+    position:relative;
+    border: 2px solid rgb(255, 255, 255);
+    left: 95%;
+    bottom: 15% ;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+}
+.thecircle4{
+    position:relative;
+    border: 2px solid rgb(255, 255, 255);
+    left: 95%;
+    top: 78%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+}
+.player6{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(225, 225, 255);
+    left: 20%;
+    top: 4%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+}
+.player7{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(225, 225, 255);
+    left: 50%;
+    bottom: 2%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+}
+.player8{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(225, 225, 255);
+    left: 79%;
+    top: -9%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+}
+.player9{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(225, 225, 255);
+    left: 79%;
+    top: -2%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+}
+.player10{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(225, 225, 255);
+    left: 47%;
+    top: -8%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 1;
+}
+.player11{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(225, 225, 255);
+    left: 20%;
+    top: -14%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 1;
+}
+.player12{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    left: 1%;
+    top: 19%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 1;
+    text-align: center;
+}
+.player13{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    left: 90%;
+    top: 13%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 1; 
+    text-align: center;
+}
+.player14{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    left: 60%;
+    top: 6%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 15; 
+    text-align: center;
+}
+.player15{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    left: 34%;
+    top: 0%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 15;
+    text-align: center; 
+}
+.player16{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    left: 34%;
+    top: -20%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 15;
+    text-align: center;
+}
+.player17{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    left: 0%;
+    top: -26%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 15;
+    text-align: center;
+}
+.player18{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    left: 90%;
+    top: -32%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 15;
+    text-align: center;
+}
+.player19{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    left: 60%;
+    top: -38%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 15;
+    text-align: center;
+}
+.player20{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    left: 60%;
+    top: -57%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 15;
+    text-align: center;
+}
+.player21{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    left: 34%;
+    top: -63%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 15;
+    text-align: center;
+}
+.player22{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(3, 248, 77);
+    left: 47%;
+    top: -28%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 15;
+    text-align: center;
+}
+.player23{
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(3, 248, 77);
+    left: 48%;
+    top: -127%;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%; 
+    z-index: 15;
+    text-align: center;
+    z-index: 20;
+}
+
